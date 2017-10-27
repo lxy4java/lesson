@@ -17,3 +17,7 @@
 ### 最终目标
 
  1. VR啊，VR啊，天海翼都拍VR教学了，我们也需要有。
+
+## 食用指南
+ 1. package.json 里添加了代理支持，请使用npm start 启动。模拟测试后台用express，放在test.js 里面。
+ 2. 修改代理在 protractor.conf.js 因为angular用express做服务，偷懒就直接用express模拟后台了。
