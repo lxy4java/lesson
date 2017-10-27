@@ -19,23 +19,3 @@
     height: 580px;
 }
 
-table {
-    border: solid;
-    border-style: 5px; 
-}
-
-.lesson-word-table th,td {
-   width: 256px;
-   text-align: center;
-   border: solid;
-   border-style: 5px;
-   font-size: 17px; 
-}
-
-.lesson-word-eg {
-    width: 600px;
-    text-align: center;
-    border: solid;
-    border-style: 5px;
-    font-size: 17px; 
-}

@@ -28,13 +28,6 @@ li a {
 	font-size: 20px;
 }
 
-li button {
-	width: 20%;
-	height: 40px;
-	float: left;
-	vertical-align: middle;
-}
-
 li {
 	border-bottom:1px solid #ccc;
 	max-height: 40px;
